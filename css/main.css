@@ -1,0 +1,28 @@
+html {
+  font-family: "Open Sans", sans-serif;
+  background-color: #f2f2f2;
+  color: #000;
+}
+
+section {
+  background-color: #fff;
+}
+
+button {
+  color: #fff;
+}
+
+h1 {
+  border: 1px solid #000;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .media {
+    padding: .5rem;
+  }
+
+}
